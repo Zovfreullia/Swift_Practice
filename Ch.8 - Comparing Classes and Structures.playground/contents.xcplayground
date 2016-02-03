@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Page 1 - Comparing classes and structures'/>
+        <page name='Page 2 - Working with classes'/>
+        <page name='Page 3 - Class instance properties'/>
+        <page name='Page 4 - Class instance methods'/>
+        <page name='Page 5 - Deinitializing a class before cleanup'/>
+        <page name='Page 6 - Avoiding Strong Reference Cycles'/>
+        <page name='Page 7 - Working with singletons'/>
+        <page name='Page 8 - Working with structures'/>
+        <page name='Page 9 - Creating mutating structures'/>
+        <page name='Page 10 - Creating error type structures'/>
+        <page name='Page 11 - Working with basic enumerations'/>
+    </pages>
+</playground>

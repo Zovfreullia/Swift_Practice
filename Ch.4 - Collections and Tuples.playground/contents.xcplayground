@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Page 1 - Defining Arrays'/>
+        <page name='Page 2 - Inspecting &amp; Accessing Arrays'/>
+        <page name='Page 3 - Modifying Arrays'/>
+        <page name='Page 4 - Nesting Arrays'/>
+        <page name='Page 5 - Defining Dictionaries'/>
+        <page name='Page 6 - Inspecting &amp; Accessing Dictionaries'/>
+        <page name='Page 7 - Modifying Dictionaries'/>
+        <page name='Page 8 - Nesting Dictionaries'/>
+        <page name='Page 9 - Defining Sets'/>
+        <page name='Page 10 - Inspecting &amp; Comparing Sets'/>
+        <page name='Page 11 - Performing Set Operations'/>
+        <page name='Page 12 - Modifying Sets'/>
+        <page name='Page 13 - Nesting Sets'/>
+        <page name='Page 14 - Tuples'/>
+        <page name='Page 15 - Accessing, Decomposing, &amp; Nesting Tuples'/>
+        <page name='Page 16 - Modifying Tuples'/>
+    </pages>
+</playground>

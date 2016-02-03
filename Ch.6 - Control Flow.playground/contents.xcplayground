@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Page 1 - Using for and for in'/>
+        <page name='Page 2 - Using while and repeat while'/>
+        <page name='Page 3 - Using if and if else'/>
+        <page name='Page 4 - Optional binding'/>
+        <page name='Page 5 - Using guard'/>
+        <page name='Page 6 - Using switch'/>
+        <page name='Page 7 - Using labels'/>
+        <page name='Page 8 - Using if case and for case'/>
+        <page name='Page 9 - Deferring code execution'/>
+        <page name='Page 10 - Optional chaining'/>
+    </pages>
+</playground>

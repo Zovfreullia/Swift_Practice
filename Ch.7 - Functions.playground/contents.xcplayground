@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Page 1 - Defining and calling functions'/>
+        <page name='Page 2 - Variable input and output parameters'/>
+        <page name='Page 3 - Reference type parameters'/>
+        <page name='Page 4 - Returning functions'/>
+        <page name='Page 5 - Returning tuples'/>
+        <page name='Page 6 - Currying'/>
+        <page name='Page 7 - Handling errors'/>
+        <page name='Page 8 - Overloading functions'/>
+        <page name='Page 9 - Creating custom operators'/>
+        <page name='Page 10 - Working with closures'/>
+        <page name='Page 11 - Using closures to calculate values'/>
+        <page name='Page 12 - Using advacned functions'/>
+    </pages>
+</playground>
